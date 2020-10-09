@@ -17,3 +17,4 @@ Par exemple pour valider les messages de commit...
 
 * Basic workflow 
 * Git flow
+* Github flow
