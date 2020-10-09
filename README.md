@@ -9,3 +9,4 @@ Par exemple pour valider les messages de commit...
 ## Branches
 
 * git merge
+* git rebase
