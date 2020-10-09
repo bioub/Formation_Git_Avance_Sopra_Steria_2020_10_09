@@ -5,3 +5,7 @@
 Utiliser husky pour versionner vos hooks.
 
 Par exemple pour valider les messages de commit...
+
+## Branches
+
+* git merge
