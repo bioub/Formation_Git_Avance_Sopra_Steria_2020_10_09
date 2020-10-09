@@ -12,3 +12,8 @@ Par exemple pour valider les messages de commit...
 
 * git merge
 * git rebase
+
+## Workflow
+
+* Basic workflow 
+* Git flow
